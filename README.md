@@ -10,6 +10,7 @@ Curated list of Uzbek Telegram groups
 - [@python_uz](https://t.me/python_uz)
 - [@swift_uzb](https://t.me/swift_uzb)
 - [@Java_UZB](https://t.me/Java_UZB)
+- [@cppuz](https://t.me/cppuz)
 
 ## Frontend
 - [@uzverstalshiki](https://t.me/uzverstalshiki)
