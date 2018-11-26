@@ -28,3 +28,7 @@ Curated list of Uzbek Telegram groups
 ## Others
 - [@linux_uzbek](https://t.me/linux_uzbek)
 - [@Androidchilar](https://t.me/Androidchilar)
+
+# Licence
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
