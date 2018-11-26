@@ -3,8 +3,8 @@
 Curated list of Uzbek Telegram groups
 
 ## Languages
-- [@javascript_uzb](https://t.me/javascript_uzb)
 - [@js_uzb](https://t.me/js_uzb)
+- [@javascript_uzb](https://t.me/javascript_uzb)
 - [@typescript_uzb](https://t.me/typescript_uzb)
 - [Php](https://t.me/joinchat/BUZ6zUGU-vgCZ5mkeSbP-g)
 - [@python_uz](https://t.me/python_uz)
