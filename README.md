@@ -25,9 +25,17 @@ Curated list of Uzbek Telegram dev groups
 - [@laravel_uz](https://t.me/laravel_uz)
 - [@psql_uz](https://t.me/psql_uz)
 
-## Others
+## Linux
 - [@linux_uzbek](https://t.me/linux_uzbek)
+
+## Mobile
+
 - [@Androidchilar](https://t.me/Androidchilar)
+
+## Community
+
+- [@uzdevgroup](https://t.me/uzdevgroup)
+- [@tasdev](https://t.me/tasdev)
 
 # Licence
 
