@@ -40,6 +40,10 @@ Curated list of Uzbek Telegram dev groups
 - [@uzdevgroup](https://t.me/uzdevgroup)
 - [@tasdev](https://t.me/tasdev)
 
+## Others
+
+- @BotlarHaqida
+
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
