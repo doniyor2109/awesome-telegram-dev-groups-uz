@@ -42,7 +42,7 @@ Curated list of Uzbek Telegram dev groups
 
 ## Others
 
-- @BotlarHaqida
+- [@BotlarHaqida](https://t.me/BotlarHaqida)
 
 # Licence
 
