@@ -6,7 +6,7 @@ Curated list of Uzbek Telegram dev groups
 - [@js_uzb](https://t.me/js_uzb)
 - [@javascript_uzb](https://t.me/javascript_uzb)
 - [@typescript_uzb](https://t.me/typescript_uzb)
-- [Php](https://t.me/joinchat/BUZ6zUGU-vgCZ5mkeSbP-g)
+- [Php](https://t.me/joinchat/BUZ6zUGU-vixZr6Vq49jfQ)
 - [@python_uz](https://t.me/python_uz)
 - [@swift_uzb](https://t.me/swift_uzb)
 - [@Java_UZB](https://t.me/Java_UZB)
