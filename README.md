@@ -11,6 +11,7 @@ Curated list of Uzbek Telegram dev groups
 - [@swift_uzb](https://t.me/swift_uzb)
 - [@Java_UZB](https://t.me/Java_UZB)
 - [@cppuz](https://t.me/cppuz)
+- [@EmbarcaderoDelphi](https://t.me/EmbarcaderoDelphi)
 
 ## Frontend
 - [@uzverstalshiki](https://t.me/uzverstalshiki)
