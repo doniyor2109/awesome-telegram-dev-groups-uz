@@ -43,6 +43,7 @@ Curated list of Uzbek Telegram dev groups
 ## Others
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
+- [IT Jobs, Tashkent](https://t.me/itjobstashkent)
 
 # Licence
 
