@@ -34,6 +34,7 @@ Curated list of Uzbek Telegram dev groups
 ## Mobile
 
 - [@Androidchilar](https://t.me/Androidchilar)
+- [@reactnative_uz](https://t.me/reactnative_uz)
 
 ## Community
 
