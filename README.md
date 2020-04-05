@@ -43,6 +43,9 @@ Curated list of Uzbek Telegram dev groups
 - [@uzdevgroup](https://t.me/uzdevgroup)
 - [@tasdev](https://t.me/tasdev)
 
+## Design
+- [@designersuzb](https://t.me/designersuzb)
+
 ## Others
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
