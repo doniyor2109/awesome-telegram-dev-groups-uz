@@ -26,6 +26,7 @@ Curated list of Uzbek Telegram dev groups
 - [@laravel_uz](https://t.me/laravel_uz)
 - [@djangouzb](https://t.me/djangouzb)
 - [@symfony_uz](https://t.me/symfony_uz)
+- [@wordpress_developers](https://t.me/wordpress_developers)
 
 ## Database
 - [@MySQL_group](https://t.me/MySQL_group)
