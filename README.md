@@ -27,6 +27,7 @@ Curated list of Uzbek Telegram dev groups
 - [@djangouzb](https://t.me/djangouzb)
 - [@symfony_uz](https://t.me/symfony_uz)
 - [@wordpress_developers](https://t.me/wordpress_developers)
+- [@octobercms_uz](https://t.me/octobercms_uz)
 
 ## Database
 - [@MySQL_group](https://t.me/MySQL_group)
