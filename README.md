@@ -5,6 +5,7 @@ Curated list of Uzbek Telegram dev groups
 ## Languages
 - [@js_uzb](https://t.me/js_uzb)
 - [@javascript_uzb](https://t.me/javascript_uzb)
+- [@uz_js](https://t.me/uz_js)
 - [@typescript_uzb](https://t.me/typescript_uzb)
 - [Php](https://t.me/joinchat/BUZ6zUGU-vixZr6Vq49jfQ)
 - [@python_uz](https://t.me/python_uz)
@@ -43,12 +44,13 @@ Curated list of Uzbek Telegram dev groups
 - [@reactnative_uz](https://t.me/reactnative_uz)
 
 ## Community
-
+- [@uzgeekgrop](https://t.me/UzGeeksGroup)
 - [@uzdevgroup](https://t.me/uzdevgroup)
 - [@tasdev](https://t.me/tasdev)
 
 ## Design
 - [@designersuzb](https://t.me/designersuzb)
+- [@dsgnchat](https://t.me/dsgnchat)
 
 ## Others
 
@@ -58,7 +60,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@uzpythonjobs](https://t.me/uzpythonjobs)
 - [@itjobstashkent](https://t.me/itjobstashkent)
-
+- [@Itjobs_Uzbekistan](https://t.me/ITjobs_Uzbekistan)
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
