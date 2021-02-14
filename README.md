@@ -36,6 +36,7 @@ Curated list of Uzbek Telegram dev groups
 - [@mongodbuz](https://t.me/mongodbuz)
 
 ## Linux
+- [@linuxiston](https://t.me/linuxiston)
 - [@linux_uzbek](https://t.me/linux_uzbek)
 
 ## Mobile
