@@ -67,6 +67,8 @@ Curated list of Uzbek Telegram dev groups
 - [@uzpythonjobs](https://t.me/uzpythonjobs)
 - [@itjobstashkent](https://t.me/itjobstashkent)
 - [@Itjobs_Uzbekistan](https://t.me/ITjobs_Uzbekistan)
+- [@UstozShogird](https://t.me/UstozShogird)
+- [@UstozShogirdSohalar](https://t.me/UstozShogirdSohalar)
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
