@@ -49,7 +49,7 @@ Curated list of Uzbek Telegram dev groups
 - [@dartuzb](https://t.me/dartuzb)
 
 ## Community
-- [@uzgeekgrop](https://t.me/UzGeeksGroup)
+- [@uzgeeksgroup](https://t.me/UzGeeksGroup)
 - [@uzdevgroup](https://t.me/uzdevgroup)
 - [@tasdev](https://t.me/tasdev)
 
