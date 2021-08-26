@@ -59,6 +59,7 @@ Curated list of Uzbek Telegram dev groups
 ## Others
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
+- [@TelegrafJS_uz](https://t.me/telegrafJS_uz)
 
 ## IT jobs - channels
 
