@@ -18,6 +18,7 @@ Curated list of Uzbek Telegram dev groups
 - [@uzverstalshiki](https://t.me/uzverstalshiki)
 - [@vuejs_uz](https://t.me/vuejs_uz)
 - [@react_uz](https://t.me/react_uz)
+- [@Next_JS_uz](https://t.me/next_js_uz)
 - [@angular_uz](https://t.me/angular_uz)
 - [@ngTashkent](https://t.me/ngTashkent)
 
@@ -48,7 +49,7 @@ Curated list of Uzbek Telegram dev groups
 - [@dartuzb](https://t.me/dartuzb)
 
 ## Community
-- [@uzgeekgrop](https://t.me/UzGeeksGroup)
+- [@uzgeeksgroup](https://t.me/UzGeeksGroup)
 - [@uzdevgroup](https://t.me/uzdevgroup)
 - [@tasdev](https://t.me/tasdev)
 
@@ -59,12 +60,15 @@ Curated list of Uzbek Telegram dev groups
 ## Others
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
+- [@TelegrafJS_uz](https://t.me/telegrafJS_uz)
 
 ## IT jobs - channels
 
 - [@uzpythonjobs](https://t.me/uzpythonjobs)
 - [@itjobstashkent](https://t.me/itjobstashkent)
 - [@Itjobs_Uzbekistan](https://t.me/ITjobs_Uzbekistan)
+- [@UstozShogird](https://t.me/UstozShogird)
+- [@UstozShogirdSohalar](https://t.me/UstozShogirdSohalar)
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
