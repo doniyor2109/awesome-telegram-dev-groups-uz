@@ -9,9 +9,12 @@ Curated list of Uzbek Telegram dev groups
 - [@typescript_uzb](https://t.me/typescript_uzb)
 - [@php_uz](https://t.me/php_uz)
 - [@python_uz](https://t.me/python_uz)
+- [@uz_python_chat](https://t.me/uz_python_chat)
 - [@swift_uzb](https://t.me/swift_uzb)
 - [@Java_UZB](https://t.me/Java_UZB)
 - [@cppuz](https://t.me/cppuz)
+- [@golangdevs_community](https://t.me/golangdevs_community)
+- [@golanguzb](https://t.me/golanguzb)
 - [@EmbarcaderoDelphi](https://t.me/EmbarcaderoDelphi)
 
 ## Frontend
@@ -28,12 +31,15 @@ Curated list of Uzbek Telegram dev groups
 - [@yiiframework_uz](https://t.me/yiiframework_uz)
 - [@laravel_uz](https://t.me/laravel_uz)
 - [@djangouzb](https://t.me/djangouzb)
+- [@flaskuzb](https://t.me/flaskuzb)
 - [@symfony_uz](https://t.me/symfony_uz)
 - [@wordpress_developers](https://t.me/wordpress_developers)
 - [@octobercms_uz](https://t.me/octobercms_uz)
 
+## DevOps
+- [@devopsuzb](https://t.me/devopsuzb)
+
 ## Database
-- [@MySQL_group](https://t.me/MySQL_group)
 - [@psql_uz](https://t.me/psql_uz)
 - [@mongodbuz](https://t.me/mongodbuz)
 
@@ -45,6 +51,7 @@ Curated list of Uzbek Telegram dev groups
 ## Mobile
 
 - [@Androidchilar](https://t.me/Androidchilar)
+- [@java_kotlin_android_dasturlash](https://t.me/java_kotlin_android_dasturlash)
 - [@reactnative_uz](https://t.me/reactnative_uz)
 - [@dartuzb](https://t.me/dartuzb)
 
@@ -69,6 +76,11 @@ Curated list of Uzbek Telegram dev groups
 - [@Itjobs_Uzbekistan](https://t.me/ITjobs_Uzbekistan)
 - [@UstozShogird](https://t.me/UstozShogird)
 - [@UstozShogirdSohalar](https://t.me/UstozShogirdSohalar)
+- [@ITworksUz](https://t.me/ITworksUz)
+
+## More
+
+You can follow more IT chats and changes here: [@it_chats_uz](https://t.me/it_chats_uz)
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
