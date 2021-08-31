@@ -68,6 +68,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
 - [@TelegrafJS_uz](https://t.me/telegrafJS_uz)
+- [@it_chats_uz](https://t.me/it_chats_uz)
 
 ## IT jobs - channels
 
@@ -78,9 +79,6 @@ Curated list of Uzbek Telegram dev groups
 - [@UstozShogirdSohalar](https://t.me/UstozShogirdSohalar)
 - [@ITworksUz](https://t.me/ITworksUz)
 
-## More
-
-You can follow more IT chats and changes here: [@it_chats_uz](https://t.me/it_chats_uz)
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
