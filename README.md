@@ -9,6 +9,7 @@ Curated list of Uzbek Telegram dev groups
 - [@rustlanguz](https://t.me/rustlanguz)
 - [@uz_js](https://t.me/uz_js)
 - [@typescript_uzb](https://t.me/typescript_uzb)
+- [@osmonchat](https://t.me/osmonchat)
 - [@php_uz](https://t.me/php_uz)
 - [@python_uz](https://t.me/python_uz)
 - [@uz_python_chat](https://t.me/uz_python_chat)
