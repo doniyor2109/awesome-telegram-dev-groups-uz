@@ -75,6 +75,10 @@ Curated list of Uzbek Telegram dev groups
 - [@designersuzb](https://t.me/designersuzb)
 - [@dsgnchat](https://t.me/dsgnchat)
 
+## FAANG Interview
+- [FAANG Interview](https://t.me/+faoMOaMRrmAzNGIy)
+- [LeetCode_Uz_Discuss](https://t.me/LeetCode_Uz_Discuss)
+
 ## Others
 
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
