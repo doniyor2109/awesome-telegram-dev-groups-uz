@@ -78,6 +78,7 @@ Curated list of Uzbek Telegram dev groups
 
 ## Others
 
+- [@EasticStackUz](https://t.me/elasticStackUz)
 - [@BotlarHaqida](https://t.me/BotlarHaqida)
 - [@TelegrafJS_uz](https://t.me/telegrafJS_uz)
 - [@it_chats_uz](https://t.me/it_chats_uz)
