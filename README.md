@@ -84,6 +84,10 @@ Curated list of Uzbek Telegram dev groups
 - [@telebot_uz](https://t.me/telebot_uz)
 - [@aiogram_uz](https://t.me/aiogram_uz)
 - [@UzBotsGroup](https://t.me/UzBotsGroup)
+  
+## Algorithm & Data structure
+
+- [@CodeMasters](https://t.me/codemastersuz_discuss)
 
 ## IT jobs - channels
 
