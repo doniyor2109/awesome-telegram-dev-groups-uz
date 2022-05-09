@@ -62,7 +62,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@Androidchilar](https://t.me/Androidchilar)
 - [@java_kotlin_android_dasturlash](https://t.me/java_kotlin_android_dasturlash)
-- [@reactnative_uz](https://t.me/reactnative_uz)
+- [@reactnative_uzb](https://t.me/reactnative_uzb)
 - [@dartuzb](https://t.me/dartuzb)
 
 ## Community
