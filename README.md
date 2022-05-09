@@ -76,9 +76,8 @@ Curated list of Uzbek Telegram dev groups
 - [@designersuzb](https://t.me/designersuzb)
 - [@dsgnchat](https://t.me/dsgnchat)
 
-## FAANG Interview
+## Interview preparation
 - [FAANG Interview](https://t.me/+faoMOaMRrmAzNGIy)
-- [LeetCode_Uz_Discuss](https://t.me/LeetCode_Uz_Discuss)
 
 ## Others
 
@@ -92,6 +91,7 @@ Curated list of Uzbek Telegram dev groups
 ## Algorithm & Data structure
 
 - [@CodeMasters](https://t.me/codemastersuz_discuss)
+- [LeetCode_Uz_Discuss](https://t.me/LeetCode_Uz_Discuss)
 
 ## IT jobs - channels
 
