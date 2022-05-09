@@ -41,6 +41,7 @@ Curated list of Uzbek Telegram dev groups
 - [@symfony_uz](https://t.me/symfony_uz)
 - [@wordpress_developers](https://t.me/wordpress_developers)
 - [@octobercms_uz](https://t.me/octobercms_uz)
+- [@spring_boot_mvc_uz](https://t.me/spring_boot_mvc_uz)
 
 ## DevOps
 
@@ -61,7 +62,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@Androidchilar](https://t.me/Androidchilar)
 - [@java_kotlin_android_dasturlash](https://t.me/java_kotlin_android_dasturlash)
-- [@reactnative_uz](https://t.me/reactnative_uz)
+- [@reactnative_uzb](https://t.me/reactnative_uzb)
 - [@dartuzb](https://t.me/dartuzb)
 
 ## Community
@@ -87,6 +88,10 @@ Curated list of Uzbek Telegram dev groups
 - [@telebot_uz](https://t.me/telebot_uz)
 - [@aiogram_uz](https://t.me/aiogram_uz)
 - [@UzBotsGroup](https://t.me/UzBotsGroup)
+  
+## Algorithm & Data structure
+
+- [@CodeMasters](https://t.me/codemastersuz_discuss)
 
 ## IT jobs - channels
 
