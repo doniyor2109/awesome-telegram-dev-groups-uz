@@ -34,6 +34,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@nodejs_uz](https://t.me/nodejs_uz)
 - [@denolanduz](https://t.me/denolanduz)
+- [@bunjs_uz] (https://t.me/bunjs_uz)
 - [@nestjs_uz](https://t.me/nestjs_uz)
 - [@yiiframework_uz](https://t.me/yiiframework_uz)
 - [@laravel_uz](https://t.me/laravel_uz)
