@@ -53,6 +53,7 @@ Curated list of Uzbek Telegram dev groups
 
 - [@psql_uz](https://t.me/psql_uz)
 - [@mongodbuz](https://t.me/mongodbuz)
+- [@mysqluz](https://t.me/MySQLuz)
 
 ## Linux
 
