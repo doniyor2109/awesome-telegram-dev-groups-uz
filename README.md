@@ -44,6 +44,7 @@ Curated list of Uzbek Telegram dev groups
 - [@wordpress_developers](https://t.me/wordpress_developers)
 - [@octobercms_uz](https://t.me/octobercms_uz)
 - [@spring_boot_mvc_uz](https://t.me/spring_boot_mvc_uz)
+- [@EasticStackUz](https://t.me/elasticStackUz)
 
 ## DevOps
 
