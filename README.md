@@ -105,6 +105,7 @@ Curated list of Uzbek Telegram dev groups
 - [@UstozShogird](https://t.me/UstozShogird)
 - [@UstozShogirdSohalar](https://t.me/UstozShogirdSohalar)
 - [@ITworksUz](https://t.me/ITworksUz)
+- [@OneApp](https://t.me/oneapp_uz)
 - [@ITJobsUzb](https://t.me/ITjobsUZB1)
 - [@FrontEndJob](https://t.me/frontend_job)
 
