@@ -112,6 +112,7 @@ Curated list of Uzbek Telegram dev groups
 - [@BackendJobsUz](https://t.me/backend_jobs_uz)
 - [@omucJobs](https://t.me/omuc_jobs)
 - [@UzbekistanJobsIT](https://t.me/Uzbekistanjobit)
+- [WorkSaleITUz](https://t.me/worksale_it)
 
 # Licence
 
