@@ -99,7 +99,7 @@ Curated list of Uzbek Telegram dev groups
 
 ## IT jobs - channels
 
-- [UzDevJobs](https://t.me/uzdev_jobs)
+- [@UzDevJobs](https://t.me/uzdev_jobs)
 - [@uzpythonjobs](https://t.me/uzpythonjobs)
 - [@itjobstashkent](https://t.me/itjobstashkent)
 - [@Itjobs_Uzbekistan](https://t.me/ITjobs_Uzbekistan)
@@ -110,6 +110,8 @@ Curated list of Uzbek Telegram dev groups
 - [@ITJobsUzb](https://t.me/ITjobsUZB1)
 - [@FrontEndJob](https://t.me/frontend_job)
 - [@UzbekistanJobIT](https://t.me/Uzbekistanjobit)
+- [@WorkSaleIT](https://t.me/worksale_it)
+- [@BackendJobsUz](https://t.me/backend_jobs_uz)
 
 # Licence
 
