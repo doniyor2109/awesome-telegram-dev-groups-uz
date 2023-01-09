@@ -109,6 +109,7 @@ Curated list of Uzbek Telegram dev groups
 - [@OneApp](https://t.me/oneapp_uz)
 - [@ITJobsUzb](https://t.me/ITjobsUZB1)
 - [@FrontEndJob](https://t.me/frontend_job)
+- [@UzbekistanJobIT](https://t.me/Uzbekistanjobit)
 - [@WorkSaleIT](https://t.me/worksale_it)
 - [@BackendJobsUz](https://t.me/backend_jobs_uz)
 
