@@ -113,6 +113,12 @@ Curated list of Uzbek Telegram dev groups
 - [@WorkSaleIT](https://t.me/worksale_it)
 - [@BackendJobsUz](https://t.me/backend_jobs_uz)
 
+## IT jobs - web site
+
+- [@OneApp.uz](https://oneapp.uz/uz)
+- [@ITMarket.uz](https://it-market.uz)
+- [@Ish.uz](https://ish.uz/jobs)
+
 # Licence
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
