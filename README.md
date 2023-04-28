@@ -58,6 +58,7 @@ Curated list of Uzbek Telegram dev groups
 - [@psql_uz](https://t.me/psql_uz)
 - [@mongodbuz](https://t.me/mongodbuz)
 - [@mysqluz](https://t.me/MySQLuz)
+- [@graphql_uz](https://t.me/graphql_uz)
 
 ## Linux
 
@@ -115,6 +116,7 @@ Curated list of Uzbek Telegram dev groups
 - [@UzbekistanJobIT](https://t.me/Uzbekistanjobit)
 - [@WorkSaleIT](https://t.me/worksale_it)
 - [@BackendJobsUz](https://t.me/backend_jobs_uz)
+- [@teamwork_uz](https://t.me/teamwork_uz)
 
 # Licence
 
